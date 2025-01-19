@@ -3,7 +3,7 @@ Basic To advanced Node Js
 
 # Install step by step
 npm i node
-npm i express
+npm install express
 npm i nodemon
 
 >npm install -g nodemon
